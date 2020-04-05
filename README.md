@@ -1,5 +1,5 @@
-# intro-to-nlp
-My notes and exercise answers to Introduction to Natural Language Processing in Python course from DataCamp
+# nlp-courses
+My notes and exercise answers to NLP courses, mainly taken on DataCamp
 
 Summary of what I learned:
 
